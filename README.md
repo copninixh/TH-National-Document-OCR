@@ -1,6 +1,9 @@
 # TH National Document OCR (THND OCR) Main Repo
 Tesseract OCR Tools for read Thai National Document using TH Sarabun National Font for training and finetune.
-Read README.md to see my step to developing.
+Read README.md and follow to part I and II to see my step to developing.
+
+Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
+Part II : https://github.com/copninich/TH-National-Document-OCR-Part-II
 
 ## 0. Information
 ### 0.1 Tools 
