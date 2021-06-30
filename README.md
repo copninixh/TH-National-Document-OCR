@@ -31,15 +31,20 @@ Using PIL library and using TH Sarabun formart font 72 px to create dataset.
 
 
 ## 03.Testing train and fine tune tesserct (default langdata_lstm)
-Requirements langdata_lstm , tesseract , tessdata_best , 
+Requirements langdata_lstm , tesseract 4 , tessdata_best
+
+Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
 
 ## 04.Train and fine tune
-Custom tha_training_text with my own dataset more than 1 million sentences
+Requirements langdata_lstm , tesseract 4 , tessdata_best
+
+Custom tha_training_text with my own dataset more than 60k sentences
+
+Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
 
 ## 05.Performance testing
 report_performace_final.csv
 
-## 07.Website for testing
-Coming soon
+
 
 
