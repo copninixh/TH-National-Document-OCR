@@ -36,9 +36,10 @@ Requirements langdata_lstm , tesseract 4 , tessdata_best
 Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
 
 ## 04.Train and fine tune
+Run scrript script_basic.ipynb or script_config_error.ipynb
 Requirements langdata_lstm , tesseract 4 , tessdata_best
 
-Custom tha_training_text with my own dataset more than 60k sentences
+Custom tha.training_text with my own dataset more than 60k sentences
 
 Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
 
