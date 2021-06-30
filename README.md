@@ -1,10 +1,5 @@
-# TH National Document OCR (THND OCR) Main Repo
-Tesseract OCR Tools for read Thai National Document using TH Sarabun National Font for training and finetune.
-Read README.md and follow to part I and II to see my step to developing.
+ium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
 
-Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
-
-Part II : https://github.com/copninich/TH-National-Document-OCR-Part-II
 
 ## 0. Information
 ### 0.1 Tools 
@@ -25,17 +20,15 @@ Using Character Errorate and leght string (OCR & Correct Text) and output result
 ## 02.Generate dataset
 Using PIL library and using TH Sarabun formart font 72 px to create dataset.
 
-## 03.Calculate error rate (Manual)
-Using Character Errorate and leght string (OCR & Correct Text)
 
-## 04.Testing train and fine tune tesserct (default langdata_lstm)
+## 03.Testing train and fine tune tesserct (default langdata_lstm)
 Requirements langdata_lstm , tesseract , tessdata_best , 
 
-## 05.Train and fine tune
+## 04.Train and fine tune
 Custom tha_training_text with my own dataset more than 1 million sentences
 
-## 06.My model
-Coming soon
+## 05.Performance testing
+report_performace_final.csv
 
 ## 07.Website for testing
 Coming soon
