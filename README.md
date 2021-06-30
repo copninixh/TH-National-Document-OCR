@@ -3,6 +3,7 @@ Tesseract OCR Tools for read Thai National Document using TH Sarabun National Fo
 Read README.md and follow to part I and II to see my step to developing.
 
 Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
+
 Part II : https://github.com/copninich/TH-National-Document-OCR-Part-II
 
 ## 0. Information
