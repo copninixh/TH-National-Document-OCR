@@ -1,4 +1,13 @@
-ium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
+# TH National Document OCR (THND OCR) 
+Tesseract OCR Tools for read Thai National Document using TH Sarabun National Font for training and finetune.
+Read README.md to see my step to developing.
+
+Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
+
+Part II: https://github.com/copninich/TH-National-Document-OCR-Part-II
+
+
+Medium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
 
 
 ## 0. Information
