@@ -9,6 +9,8 @@ Part II: https://github.com/copninich/TH-National-Document-OCR-Part-II
 
 Medium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
 
+Website for testing : https://thndocr.herokuapp.com/
+
 
 ## 0. Information
 ### 0.1 Tools 
