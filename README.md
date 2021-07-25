@@ -1,4 +1,6 @@
 # TH National Document OCR (THND OCR) 
+[![DOI](https://zenodo.org/badge/379374594.svg)](https://zenodo.org/badge/latestdoi/379374594)
+
 Tesseract OCR Tools for read Thai National Document using TH Sarabun National Font for training and finetune.
 Read README.md to see my step to developing.
 
