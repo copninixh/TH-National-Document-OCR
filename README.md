@@ -1,5 +1,5 @@
 # TH National Document OCR (THND OCR) 
-[![DOI](https://zenodo.org/badge/379374594.svg)](https://zenodo.org/badge/latestdoi/379374594)
+[![DOI](https://zenodo.org/badge/379371970.svg)](https://zenodo.org/badge/latestdoi/379371970)
 
 Tesseract OCR Tools for read Thai National Document using TH Sarabun National Font for training and finetune.
 Read README.md to see my step to developing.
@@ -10,8 +10,6 @@ Part II: https://github.com/copninich/TH-National-Document-OCR-Part-II
 
 
 Medium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
-
-Website for testing : https://thndocr.herokuapp.com/
 
 
 ## 0. Information
@@ -40,12 +38,14 @@ Requirements langdata_lstm , tesseract 4 , tessdata_best
 Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
 
 ## 04.Train and fine tune
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/102C8_iY5TtgnHSpeaAnFatcOfoMOAHgU?usp=sharing)
+
 Run scrript script_basic.ipynb or script_config_error.ipynb
 Requirements langdata_lstm , tesseract 4 , tessdata_best
 
-Custom tha.training_text with my own dataset more than 60k sentences
+Custom tha.training_text with my own dataset more than 1.9 M sentences
 
-Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
+<!-- Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing -->
 
 ## 05.Performance testing
 report_performace_final.csv
