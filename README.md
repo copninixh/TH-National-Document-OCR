@@ -31,6 +31,7 @@ Using Character Errorate and leght string (OCR & Correct Text) and output result
 ## 02.Generate dataset
 Using PIL library and using TH Sarabun formart font 72 px to create dataset.
 
+Link : https://www.kaggle.com/copninich/thaienglish-character-in-th-sarabun-font
 
 ## 03.Testing train and fine tune tesserct (default langdata_lstm)
 Requirements langdata_lstm , tesseract 4 , tessdata_best
