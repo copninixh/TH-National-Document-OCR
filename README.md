@@ -1,7 +1,7 @@
 
 # 🏗️ ThaiHooOCR Development Version 
 ```diff
-! Development Version if you want to use please see branch main
+! Development Version if you want to use please go to branch Main !!
 ```
 ThaiHooOCR (THND OCR Older name) OCR Tools for read Thai Document using TH Font for training and finetune.
 
