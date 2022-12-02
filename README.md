@@ -1,15 +1,13 @@
 # Thai National Document Optical Character Recognition (THND OCR) 
 [![DOI](https://zenodo.org/badge/379371970.svg)](https://zenodo.org/badge/latestdoi/379371970)
 
-Tesseract OCR Tools for read Thai National Document used TH Sarabun National Font for trained and finetuned.
-Read README.md to see my developed process.
+#### Tesseract OCR tools for read Thai National Document used TH Sarabun National Font trained and finetuned. Read README.md to see about my process.
 
-Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
+- Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
 
-Part II: https://github.com/copninich/TH-National-Document-OCR-Part-II
+- Part II : https://github.com/copninich/TH-National-Document-OCR-Part-II
 
-
-Medium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
+- Medium : https://medium.com/@copninich/5a673cc8a686
 
 
 ## 0. Informations
