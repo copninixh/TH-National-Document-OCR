@@ -1,8 +1,8 @@
-# TH National Document OCR (THND OCR) 
+# Thai National Document Optical Character Recognition (THND OCR) 
 [![DOI](https://zenodo.org/badge/379371970.svg)](https://zenodo.org/badge/latestdoi/379371970)
 
-Tesseract OCR Tools for read Thai National Document using TH Sarabun National Font for training and finetune.
-Read README.md to see my step to developing.
+Tesseract OCR Tools for read Thai National Document used TH Sarabun National Font for trained and finetuned.
+Read README.md to see my developed process.
 
 Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
 
@@ -12,16 +12,16 @@ Part II: https://github.com/copninich/TH-National-Document-OCR-Part-II
 Medium : https://copninich.medium.com/thnd-ocr-the-series-version-%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%A2-5a673cc8a686
 
 
-## 0. Information
-### 0.1 Tools 
+## 0. Informations
+### 0.1 Tool
 - Tesseact : https://github.com/tesseract-ocr/tesseract
-### 0.2 Dataset
+### 0.2 Datasets
 - PyThaiNLP (Prachathai) : https://github.com/PyThaiNLP/prachathai-67k
 - PyThaiNLP (ThaiGov V2 Corpus) : https://github.com/PyThaiNLP/thaigov-v2-corpus
 - PyThaiNLP (ThaiGov Archive corpus) : https://github.com/PyThaiNLP/thaigov-archive-corpus
 - Thaisum : https://github.com/nakhunchumpolsathien/ThaiSum 
 - TR-TPBS : https://github.com/nakhunchumpolsathien/TR-TPBS
-### 0.3 Project information
+### 0.3 Project informations
 - Ai Builders
 - Kampanart Chaimooltan
 
