@@ -10,7 +10,7 @@
 - Medium : https://medium.com/@copninich/5a673cc8a686
 
 
-## 0. Informations
+## 0. Information
 ### 0.1 Tool
 - Tesseact : https://github.com/tesseract-ocr/tesseract
 ### 0.2 Datasets
@@ -19,14 +19,14 @@
 - PyThaiNLP (ThaiGov Archive corpus) : https://github.com/PyThaiNLP/thaigov-archive-corpus
 - Thaisum : https://github.com/nakhunchumpolsathien/ThaiSum 
 - TR-TPBS : https://github.com/nakhunchumpolsathien/TR-TPBS
-### 0.3 Project informations
+### 0.3 Project information
 - Ai Builders
 - Kampanart Chaimooltan
 
 ## 01.Performance testing 
 Using Character Errorate and leght string (OCR & Correct Text) and output result testing (.csv file)
 
-## 02.Generate dataset
+## 02.Generate datasets
 Using PIL library and using TH Sarabun formart font 72 px to create dataset.
 
 Link : https://www.kaggle.com/copninich/thaienglish-character-in-th-sarabun-font
