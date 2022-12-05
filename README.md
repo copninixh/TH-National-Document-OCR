@@ -1,7 +1,7 @@
 # Thai National Document Optical Character Recognition (THND OCR) 
 [![DOI](https://zenodo.org/badge/379371970.svg)](https://zenodo.org/badge/latestdoi/379371970)
 
-#### Tesseract OCR tools for read Thai National Document used TH Sarabun National Font trained and finetuned. Read README.md to see about my process.
+#### Tesseract OCR tools for read Thai National Document used TH Sarabun National Font trained and fine-tuned. Read README.md to see about my process.
 
 - Part I : https://github.com/copninich/TH-National-Document-OCR-Part-I
 
@@ -12,7 +12,7 @@
 
 ## 0. Information
 ### 0.1 Tool
-- Tesseact : https://github.com/tesseract-ocr/tesseract
+- Tesseract : https://github.com/tesseract-ocr/tesseract
 ### 0.2 Datasets
 - PyThaiNLP (Prachathai) : https://github.com/PyThaiNLP/prachathai-67k
 - PyThaiNLP (ThaiGov V2 Corpus) : https://github.com/PyThaiNLP/thaigov-v2-corpus
@@ -20,35 +20,38 @@
 - Thaisum : https://github.com/nakhunchumpolsathien/ThaiSum 
 - TR-TPBS : https://github.com/nakhunchumpolsathien/TR-TPBS
 ### 0.3 Project information
-- Ai Builders
+- Ai Builders 2021
 - Kampanart Chaimooltan
 
-## 01.Performance testing 
-Using Character Errorate and leght string (OCR & Correct Text) and output result testing (.csv file)
+## 01.Performance tested
+I used Character Errorate and leght string (OCR & Correct Text) and output result testing (.csv file)
 
-## 02.Generate datasets
-Using PIL library and using TH Sarabun formart font 72 px to create dataset.
+## 02.Generated datasets
+I used PIL library. in addtion, I used TH Sarabun formart font 72 px to create datasets.
 
 Link : https://www.kaggle.com/copninich/thaienglish-character-in-th-sarabun-font
 
-## 03.Testing train and fine tune tesserct (default langdata_lstm)
-Requirements langdata_lstm , tesseract 4 , tessdata_best
+## 03.Tested trained and fine-tuned Tesseract (default langdata_lstm)
+Requirements 
+1. langdata_lstm
+2. tesseract v.4
+3. tessdata_best
 
 Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing
 
-## 04.Train and fine tune
+## 04.Trained and fine-tuned
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/102C8_iY5TtgnHSpeaAnFatcOfoMOAHgU?usp=sharing)
 
-Run scrript script_basic.ipynb or script_config_error.ipynb
-Requirements langdata_lstm , tesseract 4 , tessdata_best
+Run script `script_basic.ipynb` or `script_config_error.ipynb`
 
-Custom tha.training_text with my own dataset more than 1.9 M sentences
+Requirements 
+1. langdata_lstm
+2. tesseract v.4
+3. tessdata_best
+
+Custom `tha.training_text` with my own datasets more than 1.9 M sentences
 
 <!-- Load file to your folder and extract : https://drive.google.com/drive/folders/1ABo7ooO62Tb03RR_VvkdshRVG9vz23sl?usp=sharing -->
 
-## 05.Performance testing
-report_performace_final.csv
-
-
-
-
+## 05.Performance tested
+`report_performace_final.csv`
